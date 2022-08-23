@@ -1,7 +1,7 @@
 module.exports = {
-  token: "OTg0NTU4MDQ3Njg5MDcyNzMx.G60HFN.Z45SjEN88T7m733h7rd8eNln-joJaN1K0Dr1Wc",
+  token: "MTAxMTY1NDA4ODc3MDk5ODQwMg.GGK-1j.H0PItUyhxUfxeMmwcuBz7MDBdX-ssSe3B4OSdM",
   prefixs: ["!"],
-  developersID: [ "660605299723468842" ],
+  developersID: [ "1011654088770998402" ],
   
   mongoURL: "mongodb+srv://lethx:lethx12345@lethx.b5tmc.mongodb.net/lethxregister?retryWrites=true&w=majority",
 };
